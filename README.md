@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arshiya Khannum.</h1>
-<h3 align="center">A passionate Software tester, DevOps, Database, Web/Mobile software 💻 engineer 🔧 from Bangalore, India. </h3>
+<h3 align="center">A passionate Data Analyst | Dat Scientist and a software 💻 engineer 🔧 from Bangalore, India. </h3>
 
 
 - 🔭 I’m currently working on data analysis, statistical modeling, machine learning, data visualization, and platforms like Python, R, SQL, Power BI, and Tableau. I’m also using cloud platforms like AWS and Azure to manage and analyze large datasets.
