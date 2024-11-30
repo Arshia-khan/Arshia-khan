@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Software tester, DevOps, Database, Web/Mobile software 💻 engineer 🔧 from Bangalore, India. </h3>
 
 
-- 🔭 I’m currently working on **Automation Testing, Web Application Testing, Azure, AWS, Automation tools like Selenium Webdriver, Appium, Blazemeter, Defect Tracking tool Jira, CI/CD tool Jenkins, Version control tool Github, Testing Framework TestNg** 
+- 🔭 I’m currently working on data analysis, statistical modeling, machine learning, data visualization, and platforms like Python, R, SQL, Power BI, and Tableau. I’m also using cloud platforms like AWS and Azure to manage and analyze large datasets.
 
-- 🌱 I’m currently learning **Security testing, Docker, API testing, Clouds: AWS, Azure, k8s, DevOps, ISTQB certification Exam .**
+🌱 I’m currently learning advanced machine learning techniques, deep learning, data engineering, cloud services (AWS, Azure), and big data technologies. I'm also preparing for the Google Data Analytics Certification Exam.
 
-- 👯 I’m looking to collaborate on **Clouds, Kubernetes, DevOps, GitOps, SOftware Develeopment, Software Testing.**
+👯 I’m looking to collaborate on data-driven decision-making, predictive modeling, business intelligence, data engineering, and machine learning projects.
 
-- 🤝 I’m looking for help with **Security Testing**
+🤝 I’m looking for help with deep learning algorithms, big data frameworks, and advanced data analytics tools.**
  
 -    I'm Open source and community contributer and currently contributing to CloudnLoud Tech community for a good cause :)        
 
@@ -16,7 +16,7 @@
 
 - 📝 I regularly write posts/blogs on [https://www.linkedin.com/in/arshiastack/](https://www.linkedin.com/in/arshiastack/)
 
-- 💬 Ask me about **Clouds, Kubernetes, DevOps, Database, web/mobile testings.**
+- 💬 Ask me about **Data, Visualization,Extraction, Real estate predictions.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/arshiastack/**
 
