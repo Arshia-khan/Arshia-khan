@@ -10,11 +10,11 @@
 
 🤝 I’m looking for help with deep learning algorithms, big data frameworks, and advanced data analytics tools.**
  
--    I'm Open source and community contributer and currently contributing to CloudnLoud Tech community for a good cause :)        
+-    I'm Open source and community contributer and currently contributing as a software tester to CloudnLoud Tech community for a good cause :)        
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arshia-khan](https://github.com/Arshia-khan)
 
-- 📝 I regularly write posts/blogs on [https://www.linkedin.com/in/arshiastack/](https://www.linkedin.com/in/arshiastack/)
+- 📝 I sometimes write posts/blogs on [https://www.linkedin.com/in/arshiastack/](https://www.linkedin.com/in/arshiastack/)
 
 - 💬 Ask me about **Data, Visualization,Extraction, Real estate predictions.**
 
